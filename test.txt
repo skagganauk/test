@@ -10,3 +10,5 @@ test_3
 testbranch
 
 testbranch2
+
+test new_branch_2
